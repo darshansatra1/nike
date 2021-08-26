@@ -80,7 +80,7 @@
                                 <p class="nav-link">Men</p>
                             </li>
                             <li class="nav-item">
-                                <p class="nav-link">Women</p>
+                                <p class="nav-link"><a href="items.html">Women</a></p>
                             </li>
                             <li class="nav-item">
                                 <p class="nav-link">Kids</p>
