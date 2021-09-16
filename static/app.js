@@ -38,7 +38,7 @@ try {
   // add items from img folder for trending section
   trendingList = document.querySelector('.trending-items-list');
   sourceToImgsFile = 'static/items/';
-  ITEMS_NAMES = ['shoe 1', 'shoe 2', 'shoe 3', 'shoe 4', 'shoe 5', 'shoe 6', 'shoe 7', 'shoe 8', 'shoe 9', 'shoe 10'];
+  ITEMS_NAMES = ['shoe ', 'shoe 2', 'shoe 3', 'shoe 4', 'shoe 5', 'shoe 6', 'shoe 7', 'shoe 8', 'shoe 9', 'shoe 10'];
   PRICES = [55, 40, 70, 90, 10, 45, 60, 30, 70, 100];
 
   for (i = 0; i < 10; i++) {
