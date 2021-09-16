@@ -88,7 +88,7 @@
                                 <p class="nav-link">New Releases</p>
                             </li>
                             <li class="nav-item" id="men">
-                                <p class="nav-link"><<a href="items.html">Men</a>/p>
+                                <p class="nav-link"><<a href="items.html">Men</a></p>
                             </li>
                             <li class="nav-item">
                                 <p class="nav-link"><a href="items.html">Women</a></p>
