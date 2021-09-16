@@ -75,6 +75,7 @@ try {
     img = document.createElement('img');
     img.src = sourceToImgsFile + 'item' + i + ".jpg";
     img.className = 'items-img';
+    img.alt = ITEMS_NAMES[i - 10]
     // price name div
     namePrice = document.createElement('div');
     namePrice.className = 'item-name-price';
