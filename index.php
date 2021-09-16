@@ -7,7 +7,11 @@
         DarshShoe
     </title>
     <meta charset="UTF-8">
+    <meta name="description" content="DarshShoe Inc. provides a wide variey of Stylish shoes, along with other clothings such a Hoodie and T-Shirt for both men and women">
+    <meta name="keywords" content="DarshShoe,Shoes,Hoodie,T-Shirt,Online,Store">
+    <meta name="author" content="DarshanShoe Inc.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <link rel="stylesheet" href="static/style.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
