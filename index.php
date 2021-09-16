@@ -102,7 +102,7 @@
                                 <p class="nav-link"><a href="items.html">Kids</a></p>
                             </li>
                             <li class="nav-item">
-                                <p class="nav-link"><a href="items.html">Gifts</a></p>
+                                <p class="nav-link"><a href="items.html">Running Gears</a></p>
                             </li>
                             <li class="nav-item">
                                 <p class="nav-link">Sale</p>
