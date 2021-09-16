@@ -80,8 +80,7 @@ try {
     namePrice = document.createElement('div');
     namePrice.className = 'item-name-price';
     itemName = document.createElement('p');
-    // itemName.innerHTML = ITEMS_NAMES[i - 10];
-    itemName.innerHTML = "NAME";
+    itemName.innerHTML = ITEMS_NAMES[i - 10];
     itemName.className = 'name';
     itemPrice = document.createElement('p');
     itemPrice.innerHTML = PRICES[i - 10] + '$';
