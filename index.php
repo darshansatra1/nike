@@ -88,16 +88,16 @@
                                 <p class="nav-link">New Releases</p>
                             </li>
                             <li class="nav-item" id="men">
-                                <p class="nav-link">Men</p>
+                                <p class="nav-link"><<a href="items.html">Men</a>/p>
                             </li>
                             <li class="nav-item">
                                 <p class="nav-link"><a href="items.html">Women</a></p>
                             </li>
                             <li class="nav-item">
-                                <p class="nav-link">Kids</p>
+                                <p class="nav-link"><a href="items.html">Kids</a></p>
                             </li>
                             <li class="nav-item">
-                                <p class="nav-link">Gifts</p>
+                                <p class="nav-link"><a href="items.html">Gifts</a></p>
                             </li>
                             <li class="nav-item">
                                 <p class="nav-link">Sale</p>
@@ -180,7 +180,7 @@
             </div>
 
             <div class="container2">
-                <div class="section3">
+                <div class="section3">/it
                     <img src="static/logo3.png" alt="logo3">
                 </div>
                 <div class="section4 pt-2 pb-4">
