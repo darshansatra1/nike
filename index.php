@@ -7,8 +7,8 @@
         DarshShoe
     </title>
     <meta charset="UTF-8">
-    <meta name="description" content="DarshShoe Inc. provides a wide variey of Stylish shoes, along with other clothings such a Hoodie and T-Shirt for both men and women">
-    <meta name="keywords" content="DarshShoe,Shoes,Hoodie,T-Shirt,Online,Store">
+    <meta name="description" content="DarshShoe Inc. provides a wide variey of Stylish shoes, along with other Running Gears such a Hoodie and T-Shirt for both men and women">
+    <meta name="keywords" content="DarshShoe,Shoes,Hoodie,T-Shirt,Online,Running Gears,Store">
     <meta name="author" content="DarshanShoe Inc.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
