@@ -4,7 +4,7 @@
 <head>
 
     <title>
-        DarshShoe
+        Darshshoe
     </title>
     <meta charset="UTF-8">
     <meta name="description" content="DarshShoe Inc. provides a wide variey of Stylish shoes, along with other Running Gears such a Hoodie and T-Shirt for both men and women">
