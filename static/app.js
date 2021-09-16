@@ -75,12 +75,13 @@ try {
     img = document.createElement('img');
     img.src = sourceToImgsFile + 'item' + i + ".jpg";
     img.className = 'items-img';
-    // img.alt = ITEMS_NAMES[i - 10]
+    img.alt = ITEMS_NAMES[i - 10]
     // price name div
     namePrice = document.createElement('div');
     namePrice.className = 'item-name-price';
     itemName = document.createElement('p');
-    itemName.innerHTML = ITEMS_NAMES[i - 10];
+    // itemName.innerHTML = ITEMS_NAMES[i - 10];
+    itemName.innerHTML = "NAME";
     itemName.className = 'name';
     itemPrice = document.createElement('p');
     itemPrice.innerHTML = PRICES[i - 10] + '$';
