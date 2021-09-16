@@ -180,7 +180,7 @@
             </div>
 
             <div class="container2">
-                <div class="section3">/it
+                <div class="section3">
                     <img src="static/logo3.png" alt="logo3">
                 </div>
                 <div class="section4 pt-2 pb-4">
