@@ -93,16 +93,16 @@
                                 <p class="nav-link">New Releases</p>
                             </li>
                             <li class="nav-item" id="men">
-                                <p class="nav-link"><a href="items.html">Men</a></p>
+                                <p class="nav-link"><a href="items.html" title="Men's Shoe">Men</a></p>
                             </li>
                             <li class="nav-item">
-                                <p class="nav-link"><a href="items.html">Women</a></p>
+                                <p class="nav-link"><a href="items.html" title="Women's Shoe">Women</a></p>
                             </li>
                             <li class="nav-item">
-                                <p class="nav-link"><a href="items.html">Kids</a></p>
+                                <p class="nav-link"><a href="items.html" title="Kids' Shoe">Kids</a></p>
                             </li>
                             <li class="nav-item">
-                                <p class="nav-link"><a href="items.html">Running Gears</a></p>
+                                <p class="nav-link"><a href="items.html" title="Running Gears Store">Running Gears</a></p>
                             </li>
                             <li class="nav-item">
                                 <p class="nav-link">Sale</p>
