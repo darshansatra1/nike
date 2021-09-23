@@ -4,11 +4,15 @@
 <head>
 
     <title>
-        Darshshoe
+        DarshShoe
     </title>
     <meta charset="UTF-8">
-    <meta name="description" content="DarshShoe Inc. provides a wide variey of Stylish shoes, along with other Running Gears such a Hoodie and T-Shirt for both men and women">
-    <meta name="keywords" content="DarshShoe,Shoes,Hoodie,T-Shirt,Online,Running Gears,Store">
+    <meta name="description" content="DarshShoe Inc. provides a wide variey 
+    of Stylish shoes, along with other Running Gears such a Hoodie and 
+    T-Shirt for both men and women">
+    <meta name="keywords" content="DarshShoe,Shoes,Hoodie,
+    T-Shirt,Online,Running Gears,Store">
+    <meta name="robots" content="index,follow">
     <meta name="author" content="DarshanShoe Inc.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
@@ -133,25 +137,25 @@
                 </nav>
                 <div class="drop-list-new-releases">
                     <div class="drop-item">
-                        <h1>Featured</h1>
+                        <h2>Featured</h2>
                         <h4>Bestsellers</h4>
                         <h4>Shop All new Arrivals</h4>
                         <h4>National Team Collection</h4>
                     </div>
                     <div class="drop-item">
-                        <h1>New for Men</h1>
+                        <h2>New for Men</h2>
                         <h4>Shoes</h4>
                         <h4>Clothing</h4>
                         <h4>Equipments</h4>
                     </div>
                     <div class="drop-item">
-                        <h1>New for Women</h1>
+                        <h2>New for Women</h2>
                         <h4>Shoes</h4>
                         <h4>Clothing</h4>
                         <h4>Equipments</h4>
                     </div>
                     <div class="drop-item">
-                        <h1>New for Kids</h1>
+                        <h2>New for Kids</h2>
                         <h4>Boy's Shoes</h4>
                         <h4>Girl's Shoes</h4>
                         <h4>Boy's Clothing</h4>
@@ -160,13 +164,13 @@
                 </div>
                 <div class="drop-list-men">
                     <div class="drop-item">
-                        <h1>Featured</h1>
+                        <h2>Featured</h2>
                         <h4>Bestsellers</h4>
                         <h4>New Releases</h4>
                         <h4>On your Radar</h4>
                     </div>
                     <div class="drop-item">
-                        <h1>Shoes</h1>
+                        <h2>Shoes</h2>
                         <h4>All Shoes</h4>
                         <h4>Lifestyle</h4>
                         <h4>Football</h4>
@@ -175,7 +179,7 @@
                         <h4>Golf</h4>
                     </div>
                     <div class="drop-item">
-                        <h1>Clothing</h1>
+                        <h2>Clothing</h2>
                         <h4>All Clothing</h4>
                         <h4>Hoodies</h4>
                         <h4>Shorts</h4>
